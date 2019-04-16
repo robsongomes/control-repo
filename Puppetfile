@@ -17,3 +17,4 @@ forge 'https://forge.puppet.com'
 #  :branch => 'docs_experiment'
 
 mod 'ipcrm-echo', '0.1.6'
+mod 'puppetlabs-java', '3.3.0'
